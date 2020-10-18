@@ -1,6 +1,8 @@
 # SearchCAM
 
 CCTV scraper and more ...
+
+you can edit the cam.txt file and add more Dork..
  
 <h3> Execution: </h3>
 
