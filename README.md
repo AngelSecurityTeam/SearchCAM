@@ -6,7 +6,7 @@ you can edit cam.txt and add more Dork..
  
 <h3> Execution: </h3>
 
-* git clone github.com/AngelSecurityTeam/SearchCAM
+* git clone https://github.com/AngelSecurityTeam/SearchCAM
 
 * cd SearchCam
 
